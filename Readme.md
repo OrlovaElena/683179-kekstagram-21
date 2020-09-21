@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Елена Орлова](https://up.htmlacademy.ru/javascript/21/user/683179).
-* Наставник: `Неизвестно`.
+* Наставник: [Лариса Клец] (https://htmlacademy.ru/profile/id336227).
 
 ---
 
